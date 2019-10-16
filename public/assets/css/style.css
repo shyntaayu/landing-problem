@@ -147,22 +147,22 @@ h4 {
 /* ================================= */
 
 #left1 {
-	background: url('../img/a-forest-left.jpg')no-repeat top right;
+	/* background: url('../img/a-forest-left.jpg')no-repeat top right; */
 	background-size: cover;
 }
 
 #right1 {
-	background: url('../img/a-forest-right.jpg')no-repeat top left;
+	/* background: url('../img/a-forest-right.jpg')no-repeat top left; */
 	background-size: cover;
 }
 
 #left2 {
-	background: url('../img/a-forest-left.jpg')no-repeat top right;
+	/* background: url('../img/a-forest-left.jpg')no-repeat top right; */
 	background-size: cover;
 }
 
 #right2 {
-	background: url('../img/a-forest-right.jpg')no-repeat top left;
+	/* background: url('../img/a-forest-right.jpg')no-repeat top left; */
 	background-size: cover;
 }
 
